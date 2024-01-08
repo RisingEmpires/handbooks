@@ -159,7 +159,7 @@ the tournament time by selecting the link in the “Civilizations” section on 
    really send the URL, it just copies it. You still need to send it. Next, select and push the
    “Host” icon for your role. See figure 2.
 
-![Alt text](image4.png)
+![Alt text](https://raw.githubusercontent.com/RisingEmpires/handbooks/main/LEL/image4.png)
 ```
 Figure 2: Captains Mode role selection screen.
 ```
